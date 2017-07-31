@@ -6,7 +6,7 @@
             ed.addButton('jwplayer', {
                 title: 'Insert/Edit JWPlayer Element',
                 cmd: 'jwplayer',
-                image: url + '/icon.gif',
+                image: url + '/jw.jpg',
                 onclick: function () {
                     try {
                         openSettingsPanel(url + '/@@jwp-tinymce-settings');

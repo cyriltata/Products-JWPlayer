@@ -11,10 +11,11 @@ long_description = '\n\n'.join([
     open('CHANGES.rst').read(),
 ])
 
+version = '1.0'
 
 setup(
     name='Products.JWPlayer',
-    version='1.0a1',
+    version=version,
     description="JWPlayer add-on for Plone 4. Embed videos using TinyMCE to be played with the jwplayer",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -27,10 +28,11 @@ setup(
         "Operating System :: OS Independent",
         "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
     ],
-    keywords='Python Plone',
+    keywords='Python Plone jwplayer tinymce Products.TinyMCE',
     author='Cyril Tata',
     author_email='cyril.tata@gmail.com',
-    url='https://pypi.python.org/pypi/Products.JWPlayer',
+    url='https://github.com/cyriltata/Products.JWPlayer',
+    download_url = 'https://github.com/cyriltata/Products.JWPlayer/archive/%s.tar.gz' % version,
     license='GPL version 2',
     packages=find_packages('src', exclude=['ez_setup']),
     namespace_packages=['Products'],
