@@ -15,7 +15,7 @@ long_description = '\n\n'.join([
 setup(
     name='Products.JWPlayer',
     version='1.0a1',
-    description="JWPlayer add-on for Plone 4. Embed videos TinyMCE",
+    description="JWPlayer add-on for Plone 4. Embed videos using TinyMCE to be played with the jwplayer",
     long_description=long_description,
     # Get more from https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
