@@ -90,3 +90,6 @@ div {
     opacity: 1;
     height: auto;
 }
+.jwp-settings a, .jwp-settings a:link, .jwp-settings a:visited {
+    color: #205c90;
+}

@@ -7,3 +7,8 @@ Changelog
 
 - Initial release.
   [cyriltata]
+  
+1.0.2 - 31.07.2017
+------------------
+
+- Remove Defaults

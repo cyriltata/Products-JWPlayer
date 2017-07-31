@@ -32,17 +32,17 @@
         <div id="cloud-hosted-player" class="toggle-content active">
             <div class="field">
                 <label i18n:translate="">JW Player (Cloud) Library URL</label>
-                <input type="text" value="https://content.jwplatform.com/libraries/1UDsVVzg.js" id="jwp-player-url" name="jwp_player_url" placeholder="Example: https://content.jwplatform.com/libraries/xxXXxx.js" />
+                <input type="text" value="" id="jwp-player-url" name="jwp_player_url" placeholder="Example: https://content.jwplatform.com/libraries/xxXXxx.js" />
             </div>
         </div>
         <div id="self-hosted-player" class="toggle-content">
             <div class="field">
                 <label i18n:translate="">JW Player (Self-Hosted) Library URL</label>
-                <input type="text" value="https://purple.psych.bio.uni-goettingen.de/video/jwplayer/jwplayer.js" id="jwp-player-self-url" name="jwp_player_self_url" placeholder="Example: http://example.com/jwplayer/jwplayer.js" />
+                <input type="text" value="" id="jwp-player-self-url" name="jwp_player_self_url" placeholder="Example: http://example.com/jwplayer/jwplayer.js" />
             </div>
             <div class="field">
                 <label i18n:translate="">JW Player (Self-Hosted) Key</label>
-                <input type="text" value="ksILdgxHawIu3TcZyuV2ZZleVpRx/nDGck3snA==" id="jwp-player-self-key" name="jwp_player_self_key" />
+                <input type="text" value="" id="jwp-player-self-key" name="jwp_player_self_key" />
             </div>
         </div>
         <div class="field">
