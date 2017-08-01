@@ -19,6 +19,7 @@ test.plone_addon/
 var/
 # files
 .installed.cfg
+release.cfg
 .mr.developer.cfg
 lib64
 log.html

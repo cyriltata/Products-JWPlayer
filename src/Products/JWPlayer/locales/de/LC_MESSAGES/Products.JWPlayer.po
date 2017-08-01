@@ -20,7 +20,7 @@ msgstr "Schließen"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:48
 msgid "Enter URL to video"
-msgstr ""
+msgstr "Fügen Sie die URL des Videos ein"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:54
 msgid "Example"
@@ -32,19 +32,19 @@ msgstr "Einfügen"
 
 #: JWPlayer/configure.zcml:22
 msgid "Installs the Products.JWPlayer add-on."
-msgstr ""
+msgstr "Installiert die Products.JWPlayer Erweiterung"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:33
 msgid "JW Player (Cloud) Library URL"
-msgstr ""
+msgstr "URL der JW Player (Cloud) Bibliothek"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:43
 msgid "JW Player (Self-Hosted) Key"
-msgstr ""
+msgstr "Schlüssel des JWPlayer (selbst gehostet)"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:39
 msgid "JW Player (Self-Hosted) Library URL"
-msgstr ""
+msgstr "URL der JW Player (selbst gehostet) Bibliothek"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:20
 msgid "JWPlayer Settings"
@@ -52,7 +52,7 @@ msgstr "JWPlayer Einstellungen"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:53
 msgid "Player Options (one per line)"
-msgstr ""
+msgstr "Player Optionen (eine pro Zeile)"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:60
 msgid "Preview"
@@ -68,12 +68,12 @@ msgstr "Products.JWPlayer (deinstallieren)"
 
 #: JWPlayer/configure.zcml:31
 msgid "Uninstalls the Products.JWPlayer add-on."
-msgstr ""
+msgstr "Deinstalliert die Products.JWPlayer Erweiterung"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:24
 msgid "Use cloud player"
-msgstr ""
+msgstr "Benutzen Sie den Cloud-Player"
 
 #: JWPlayer/browser/templates/jwp-tinymce-settings.pt:28
 msgid "Use self-hosted player"
-msgstr ""
+msgstr "Benutzen Sie den selbst gehosteten Player"
