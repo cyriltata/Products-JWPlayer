@@ -12,3 +12,9 @@ Changelog
 ------------------
 
 - Remove Defaults
+
+1.1 - 1.08.2017
+------------------
+
+- Add German Translations
+- Tests
