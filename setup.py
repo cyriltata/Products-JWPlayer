@@ -11,7 +11,7 @@ long_description = '\n\n'.join([
     open('CHANGES.rst').read(),
 ])
 
-version = '1.1'
+version = '1.1.1'
 
 setup(
     name='Products.JWPlayer',
