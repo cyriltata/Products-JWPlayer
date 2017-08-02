@@ -1,9 +1,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.1\n"
-"POT-Creation-Date: 2017-07-31 08:15+0000\n"
+"POT-Creation-Date: 2017-08-02 09:18+0000\n"
 "PO-Revision-Date: 2017-07-31 08:15+0000\n"
 "Last-Translator: Cyril Tata <cyril.tata@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,19 +14,19 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: Products.JWPlayer\n"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:61
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:62
 msgid "Close"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:48
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:49
 msgid "Enter URL to video"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:54
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:55
 msgid "Example"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:59
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:60
 msgid "Insert"
 msgstr ""
 
@@ -33,27 +34,27 @@ msgstr ""
 msgid "Installs the Products.JWPlayer add-on."
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:33
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:34
 msgid "JW Player (Cloud) Library URL"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:43
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:44
 msgid "JW Player (Self-Hosted) Key"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:39
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:40
 msgid "JW Player (Self-Hosted) Library URL"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:20
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:21
 msgid "JWPlayer Settings"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:53
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:54
 msgid "Player Options (one per line)"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:60
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:61
 msgid "Preview"
 msgstr ""
 
@@ -69,10 +70,10 @@ msgstr ""
 msgid "Uninstalls the Products.JWPlayer add-on."
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:24
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:25
 msgid "Use cloud player"
 msgstr ""
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:28
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:29
 msgid "Use self-hosted player"
 msgstr ""
