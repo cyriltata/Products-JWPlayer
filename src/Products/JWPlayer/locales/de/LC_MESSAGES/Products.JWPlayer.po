@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.1\n"
-"POT-Creation-Date: 2017-07-31 08:28+0000\n"
+"Project-Id-Version: 1.1.1\n"
+"POT-Creation-Date: 2017-08-02 09:18+0000\n"
 "PO-Revision-Date: 2017-07-31 08:15+0000\n"
 "Last-Translator: Cyril Tata <cyril.tata@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,19 +14,19 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: Products.JWPlayer\n"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:61
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:62
 msgid "Close"
 msgstr "Schließen"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:48
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:49
 msgid "Enter URL to video"
 msgstr "Fügen Sie die URL des Videos ein"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:54
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:55
 msgid "Example"
 msgstr "Beispiel"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:59
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:60
 msgid "Insert"
 msgstr "Einfügen"
 
@@ -34,27 +34,27 @@ msgstr "Einfügen"
 msgid "Installs the Products.JWPlayer add-on."
 msgstr "Installiert die Products.JWPlayer Erweiterung"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:33
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:34
 msgid "JW Player (Cloud) Library URL"
 msgstr "URL der JW Player (Cloud) Bibliothek"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:43
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:44
 msgid "JW Player (Self-Hosted) Key"
 msgstr "Schlüssel des JWPlayer (selbst gehostet)"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:39
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:40
 msgid "JW Player (Self-Hosted) Library URL"
 msgstr "URL der JW Player (selbst gehostet) Bibliothek"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:20
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:21
 msgid "JWPlayer Settings"
 msgstr "JWPlayer Einstellungen"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:53
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:54
 msgid "Player Options (one per line)"
 msgstr "Player Optionen (eine pro Zeile)"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:60
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:61
 msgid "Preview"
 msgstr "Vorschau"
 
@@ -70,10 +70,10 @@ msgstr "Products.JWPlayer (deinstallieren)"
 msgid "Uninstalls the Products.JWPlayer add-on."
 msgstr "Deinstalliert die Products.JWPlayer Erweiterung"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:24
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:25
 msgid "Use cloud player"
 msgstr "Benutzen Sie den Cloud-Player"
 
-#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:28
+#: JWPlayer/browser/templates/jwp-tinymce-settings.pt:29
 msgid "Use self-hosted player"
 msgstr "Benutzen Sie den selbst gehosteten Player"

@@ -2,7 +2,7 @@
 # Cyril Tata <cyril.tata@gmail.com>, 2017.
 msgid ""
 msgstr ""
-"Project-Id-Version: 1.1\n"
+"Project-Id-Version: 1.1.1\n"
 "POT-Creation-Date: 2017-07-31 08:15+0000\n"
 "PO-Revision-Date: 2017-07-31 08:15+0000\n"
 "Last-Translator: Cyril Tata <cyril.tata@gmail.com>\n"

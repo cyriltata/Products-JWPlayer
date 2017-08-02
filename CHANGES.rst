@@ -13,8 +13,13 @@ Changelog
 
 - Remove Defaults
 
-1.1 - 1.08.2017
+1.1 - 01.08.2017
 ------------------
 
 - Add German Translations
 - Tests
+
+1.1.1 - 02.08.2017
+------------------
+
+- Fix string unicode issues
